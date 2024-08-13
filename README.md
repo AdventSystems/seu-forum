@@ -1,5 +1,8 @@
 # Seu Forum
 
+### Figma
+https://www.figma.com/design/vT2HaaAnNmr49npHTSJlyb/Seu-Forum---Organi7e?node-id=0-1&t=F6YjVjewRHHCCKV5-1
+
 ### Levantamento de Requisitos para Sistema de Fórum
 
 #### Funcionalidades Principais
